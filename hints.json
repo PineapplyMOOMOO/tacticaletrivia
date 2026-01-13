@@ -371,6 +371,20 @@
       {
         "character_name": "Ines Fujin",
         "hint_names": [
+          "Straightaway Adept",
+          "Ramp Up",
+          "Tail Held High",
+          "Hesitant Front Runners",
+          "Hesitant Pace Chasers"
+        ],
+        "card_names": [
+          "Watch My Star Fly!",
+          "Tracen Academy"
+        ]
+      },
+      {
+        "character_name": "Marvelous Sunday",
+        "hint_names": [
           "Moxie",
           "Steadfast",
           "Slipstream",
